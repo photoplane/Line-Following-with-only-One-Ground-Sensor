@@ -3,3 +3,13 @@ In the book by Mordechai Ben-Ari and Francesco Mondada Elements of Robotics a se
 The result may seem inefficient, but you have to remember, once again, that the RPi is not designed to process an analog signal.
 
 ![oneSensor](https://github.com/user-attachments/assets/e4f3efc4-bf57-46bf-ac88-c9469ab8f91c)
+
+
+
+
+https://github.com/user-attachments/assets/a231db8e-4626-46e1-a97a-5bfeb815d766
+
+
+
+https://github.com/user-attachments/assets/106e9857-0769-4db3-afde-1bca59317342
+
